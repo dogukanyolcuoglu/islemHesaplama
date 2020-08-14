@@ -1,0 +1,21 @@
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.exe.config
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.exe
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.pdb
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.csprojResolveAssemblyReference.cache
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\obj\Debug\_1islemOdevi.Form1.resources
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\obj\Debug\_1islemOdevi.Properties.Resources.resources
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.csproj.GenerateResource.Cache
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.exe
+c:\users\doğukan\documents\visual studio 2013\Projects\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.pdb
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.exe.config
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.exe
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.pdb
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.exe
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.pdb
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\obj\Debug\_1islemOdevi.Form1.resources
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\obj\Debug\_1islemOdevi.Properties.Resources.resources
+C:\Users\Doğukan\Desktop\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.csproj.GenerateResource.Cache
+C:\Users\Doğukan\Desktop\Yazılım Yapımı Doğukan Yolcuoğlu\1islemOdevi\1islemOdevi\bin\Debug\1islemOdevi.exe.config
+C:\Users\Doğukan\Desktop\Yazılım Yapımı Doğukan Yolcuoğlu\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.exe
+C:\Users\Doğukan\Desktop\Yazılım Yapımı Doğukan Yolcuoğlu\1islemOdevi\1islemOdevi\obj\Debug\1islemOdevi.pdb
